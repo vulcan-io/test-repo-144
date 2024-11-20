@@ -12,7 +12,7 @@
     <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-databind</artifactId>
-      <version>2.9.9</version>  <!-- Vulnerable version of Jackson (CVE-2019-10172) -->
+      <version>2.12.7.1</version>  <!-- Vulnerable version of Jackson (CVE-2019-10172) -->
     </dependency>
   </dependencies>
 </project>
